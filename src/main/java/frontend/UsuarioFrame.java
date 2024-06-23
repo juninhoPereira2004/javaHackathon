@@ -7,6 +7,7 @@ public class UsuarioFrame extends JFrame {
     public UsuarioFrame() {
         setTitle("Cadastro de Usuários (Agentes de Saúde e Cuidadores)");
         setSize(400, 500);
+
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLayout(new BorderLayout());
 
